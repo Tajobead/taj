@@ -1,0 +1,28 @@
+.page-title .title_right {
+   width: 50%;
+    float: right;
+    display: block;
+}
+.dirc{
+	direction:rtl;
+}
+.form-horizontal .control-label {
+    float:right;
+    text-align: left;
+}
+.flt{
+	float:right;
+}
+@media screen and (max-width: 767px) {
+
+.form-horizontal .control-label {
+    text-align: right;
+}
+}
+
+.txtright{
+	 text-align: right;
+}
+th{
+     text-align: right;
+}

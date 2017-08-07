@@ -1,0 +1,44 @@
+.btn-info{
+	background-color:#ff7f27;
+	color:#fff;
+	border-color:#ff7f27;
+}
+
+.btn-info:hover {
+    color: #fff;
+    background-color: #31b0d5;
+    border-color: #269abc;
+}
+
+.dirc{
+	direction:rtl;
+}
+
+hr{
+	height:1px;
+	background-color:black;
+}
+
+
+<li class="dropdown">
+         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span>الاشتراكات</a>
+          <ul class="dropdown-menu">
+		  
+		  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="caret"></span>طلب اشتراك جديد</a>
+          <ul class="dropdown-menu"></li>
+		  
+		   <li><a href="#">ميز اشتراكك</a></li>
+			  <li role="separator" class="divider"></li>
+            <li><a href="#">طرق الدفع</a></li>
+			  <li role="separator" class="divider"></li>
+			  <li><a href="#">طرق الدفع</a></li>
+			  <li role="separator" class="divider"></li>
+		  
+		   </ul>
+            <li><a href="#">ميز اشتراكك</a></li>
+			  <li role="separator" class="divider"></li>
+            <li><a href="#">طرق الدفع</a></li>
+			  <li role="separator" class="divider"></li>
+            
+          </ul>
+        </li>
